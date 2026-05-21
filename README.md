@@ -13,8 +13,8 @@ https://vendoriq.solutions
 https://dentyx.io
 https://app.myformatic.com
 Gymnastics Management System:
-unitedcheeeleading.com
-synergym.unitedcheerleading.com
+https://unitedcheeeleading.com
+https://synergym.unitedcheerleading.com
 🛠 Tech Stack
 
 Node.js • Python • FastAPI • NestJS • Laravel
