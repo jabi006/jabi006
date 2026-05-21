@@ -13,7 +13,7 @@ https://vendoriq.solutions
 https://dentyx.io
 https://app.myformatic.com
 Gymnastics Management System:
-https://unitedcheeeleading.com
+https://unitedcheeerleading.com
 https://synergym.unitedcheerleading.com
 🛠 Tech Stack
 
